@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\bin\Debug\LoopTriangle.exe.config
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\bin\Debug\LoopTriangle.exe
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\bin\Debug\LoopTriangle.pdb
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\obj\Debug\LoopTriangle.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\obj\Debug\LoopTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\obj\Debug\LoopTriangle.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\obj\Debug\LoopTriangle.exe
+C:\Users\mokgo\Desktop\CSharp\LoopTriangle\LoopTriangle\obj\Debug\LoopTriangle.pdb
